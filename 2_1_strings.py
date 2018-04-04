@@ -26,8 +26,14 @@
 ###########################################
 ### another sample of printing a varibale #
 ###########################################
-pi = 3.14
-print(pi)
-str_pi = str(pi)
-print("pi number is : ", pi)  # print each part of input separately
-print("pi number is : " + str(pi))  # concat two string
+#pi = 3.14
+#print(pi)
+#str_pi = str(pi)
+#print("pi number is : ", pi)  # print each part of input separately
+#print("pi number is : " + str(pi))  # concat two string
+#############################
+year = 1397
+str_year = str(year)
+massage = "Happy year"
+print(" Happy year ", year)
+print(massage.upper() + str_year )
