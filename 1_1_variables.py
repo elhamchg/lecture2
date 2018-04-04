@@ -6,11 +6,16 @@
 #######################################
 
 # name = value
-name = "Ali"
-year = 1396
+#name = "Ali"
+#year = 1396
 
 ###########################################
 ###### accessing the value inside variable#
 ###########################################
-print(name)
-print(year)
+#print(name)
+#print(year)
+Name = "Elham"
+Family = "Chegonian"
+Birth = 1375
+print("Name":Name + Family)
+print("Year Of Birth :" Birth)
